@@ -19,7 +19,7 @@ function App() {
   return (
     <div class="h-screen flex flex-col">
       {/* Top Banner */}
-      <div class="bg-neutral-800 text-gray-400 py-4 text-center text-2xl font-sf-pro">
+      <div class="bg-neutral-800 text-gray-200 py-4 text-center text-2xl font-sf-pro-light">
         LET'S COOK
         <div class="flex justify-end pr-4">
           {/* Menu */}
