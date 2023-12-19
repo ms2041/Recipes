@@ -1,5 +1,6 @@
 import { createSignal } from 'solid-js'
 import { createStore } from 'solid-js/store';
+import { supabase } from './supabase';
 import './index.css';
 
 const [recipes, setRecipes] = createStore([
