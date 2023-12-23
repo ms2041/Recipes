@@ -47,7 +47,7 @@ function App() {
       {/* Top Banner */}
       <div class="bg-neutral-800 text-gray-200 py-4 text-center font-sf-pro-light w-screen tracking-widest">
         <div class="pb-2"></div>
-        <p class="text-4xl text-red-500">GASTRONOMY</p>
+        <p class="text-4xl text-red-500">GASTRONAUT</p>
         <div class="pb-4"></div>
         <div class="flex justify-center pr-4">
           {/* Menu */}
